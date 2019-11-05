@@ -36,7 +36,7 @@
 
 ## Expected audience
 
-- Anyone interested in CNV, Beacon, Interoperability, controlled vocabulary...
+- Anyone and any person with interest in CNV, Beacon, Web API, Database, Data sharing, Interoperability, controlled vocabulary or controlled access ...
 
 **Number of expected hacking days**: 4
 
